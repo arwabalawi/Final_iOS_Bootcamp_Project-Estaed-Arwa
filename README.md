@@ -28,6 +28,35 @@ Instructors, students and Admin
      - ID of instructor"
 
 
+![Simulator Screen Shot - iPhone 12 - 2022-01-27 at 08 20 40](https://user-images.githubusercontent.com/91871691/151415616-23fac04e-ebf9-4e61-b0b2-7136d8c0bc28.png)
+
+![Simulator Screen Shot - iPhone 12 - 2022-01-27 at 08 20 54](https://user-images.githubusercontent.com/91871691/151415654-78b61f08-f491-4d31-ba1f-c01fff1c6e5d.png)
+
+
+
+
+
+![Simulator Screen Shot - iPhone 12 - 2022-01-27 at 20 56 36](https://user-images.githubusercontent.com/91871691/151416324-31537658-1537-4f88-834e-9e492487c962.png)
+
+
+![Simulator Screen Shot - iPhone 12 - 2022-01-27 at 20 56 52](https://user-images.githubusercontent.com/91871691/151416369-d6ac2c07-4062-4ad7-997e-3c209726fe3e.png)
+
+
+![Simulator Screen Shot - iPhone 12 - 2022-01-27 at 20 57 39](https://user-images.githubusercontent.com/91871691/151416484-7944844c-eb56-4c58-b385-76f471269dde.png)
+
+
+![Simulator Screen Shot - iPhone 12 - 2022-01-27 at 20 57 53](https://user-images.githubusercontent.com/91871691/151416513-aa5fafae-5dc8-49e8-89fd-af77aeb16e46.png)
+
+
+![Simulator Screen Shot - iPhone 12 - 2022-01-27 at 20 58 29](https://user-images.githubusercontent.com/91871691/151416635-93af4e4d-9c17-48e2-9874-dc258995ad89.png)
+
+
+Uploading Simulator Screen Recording - iPhone 12 - 2022-01-27 at 10.24.33.mp4…
+
+
+
+
+
 ## User stories - Instructors
    
 
