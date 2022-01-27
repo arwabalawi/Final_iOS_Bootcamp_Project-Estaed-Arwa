@@ -1,0 +1,437 @@
+
+"oYG-pu-Jug.text" = "مرحبــا";
+"27j-ao-Kse.normalTitle" = "قائمة التحديات";
+"1K4-ob-p3R.normalTitle" = "قائمة المحاضرات";
+"VD3-vA-7db.normalTitle" = "تحديث التفاصيل";
+
+/* Class = "UITextField"; placeholder = "Add course contents"; ObjectID = "1fu-SX-csv"; */
+"1fu-SX-csv.placeholder" = "إضافة محتويات الدورة";
+
+/* Class = "UILabel"; text = "solution Method?"; ObjectID = "1nz-hK-4he"; */
+"1nz-hK-4he.text" = "طريقة الحل ؟";
+
+/* Class = "UILabel"; text = "Payment number"; ObjectID = "2JX-Mz-IgF"; */
+"2JX-Mz-IgF.text" = "رقم السداد";
+
+
+/* Class = "UINavigationItem"; title = "Profile personly"; ObjectID = "2g8-Wl-OTg"; */
+"2g8-Wl-OTg.title" = "الملف الشخصي";
+
+/* Class = "UITabBarItem"; title = "My courses"; ObjectID = "2hA-to-OVq"; */
+"2hA-to-OVq.title" = "دوراتي";
+
+/* Class = "UILabel"; text = "answer A:-"; ObjectID = "3DJ-Gh-rkm"; */
+"3DJ-Gh-rkm.text" = "الإجابة أ:-";
+
+/* Class = "UILabel"; text = "Make your educational journey deep and intense with professional \"Estade\" content"; ObjectID = "3sb-vt-fGl"; */
+"3sb-vt-fGl.text" = "إجعل رحلتك التعليمية عميقة ومكثفة مع محتوى إستعـد الإحترافي";
+
+/* Class = "UIButton"; normalTitle = "update"; ObjectID =
+"4Mi-l1-sWQ"; */
+"4Mi-l1-sWQ.normalTitle" =
+"تحديث";
+
+/* Class = "UITextField"; placeholder = "Enter the name of lecture"; ObjectID = "5h1-Lg-qgu"; */
+"5h1-Lg-qgu.placeholder" =
+"أدخل إسم المحاضرة";
+
+/* Class = "UITextField"; placeholder = "update Course Kind"; ObjectID = "5rq-YQ-YUn"; */
+"5rq-YQ-YUn.placeholder" =
+"تحديث نوع الدورة";
+
+
+/* Class = "UIButton"; normalTitle = "Dismiss"; ObjectID = "6Yo-XL-7B6"; */
+"6Yo-XL-7B6.normalTitle" =
+"إنهاء";
+
+"cnJ-tN-Ada.normalTitle" = "إنهاء";
+
+"oOX-Zl-6oW.normalTitle" = "معلومات عنا ؟ ";
+/* Class = "UILabel"; text = "Label"; ObjectID = "6oE-hE-njT"; */
+"6oE-hE-njT.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "To pay, Click here !"; ObjectID = "6tA-SN-Q6m"; */
+"6tA-SN-Q6m.normalTitle" =
+"للدفع ، انقر هنا!";
+
+/* Class = "UILabel"; text = "Exam simulation models"; ObjectID = "7Sx-5V-WJM"; */
+"7Sx-5V-WJM.text" =
+"نماذج محاكاة للإمتحانات";
+
+/* Class = "UIButton"; normalTitle = "Dismiss"; ObjectID = "7cM-lH-zdW"; */
+"7cM-lH-zdW.normalTitle" =
+"إنهاء";
+
+/* Class = "UITextField"; placeholder = "difficulty level "; ObjectID = "8jW-hx-DCa"; */
+"8jW-hx-DCa.placeholder" =
+"مستوى الصعوبة";
+
+/* Class = "UITextField"; placeholder = "Add course price "; ObjectID = "A2L-pF-gsk"; */
+"A2L-pF-gsk.placeholder" =
+"إضافة سعر الدورة";
+
+"Xgr-Yd-OWf.normalTitle" = "إنهاء";
+/* Class = "UILabel"; text = "quistion of challeng ?"; ObjectID = "A5j-I3-xGS"; */
+"A5j-I3-xGS.text" = "سؤال التحدي؟";
+
+/* Class = "UILabel"; text = "34806427953278"; ObjectID = "CQr-SR-L6n"; */
+"CQr-SR-L6n.text" = "34806427953278";
+
+/* Class = "UINavigationItem"; title = "Available courses"; ObjectID = "CW3-9L-JBh"; */
+"CW3-9L-JBh.title" =
+"الدورات المتاحة";
+
+/* Class = "UILabel"; text = "Course time :-"; ObjectID = "Cp4-nH-dVh"; */
+"Cp4-nH-dVh.text" =
+"وقت الدورة :-";
+
+/* Class = "UIButton"; normalTitle = "Dismiss"; ObjectID = "CpD-bu-xou"; */
+"CpD-bu-xou.normalTitle" = "Dismiss";
+
+
+/* Class = "UITextField"; placeholder = "Add course date"; ObjectID = "E96-mQ-wdr"; */
+"E96-mQ-wdr.placeholder" =
+"إضافة تاريخ الدورة";
+
+/* Class = "UITextField"; placeholder = "Add course contents"; ObjectID = "EdT-zI-G0U"; */
+"EdT-zI-G0U.placeholder" =
+"إضافة محتويات الدورة";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "F4F-LQ-Aw6"; */
+"F4F-LQ-Aw6.placeholder" =
+"الإسم الأخير";
+
+/* Class = "UILabel"; text = "answer D:-"; ObjectID = "FGr-0W-5Fq"; */
+"FGr-0W-5Fq.text" =
+"الإجابة د:-";
+
+/* Class = "UILabel"; text = "Connect with us"; ObjectID = "Fff-3R-IgI"; */
+"Fff-3R-IgI.text" =
+"تواصل معنا";
+
+/* Class = "UIButton"; normalTitle = "Done !"; ObjectID = "Gbk-rv-dEw"; */
+"Gbk-rv-dEw.normalTitle" =
+"تم!";
+
+/* Class = "UITextField"; placeholder = "update course price "; ObjectID = "GgR-gL-LCX"; */
+"GgR-gL-LCX.placeholder" =
+"تحديث سعر الدورة";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GwG-v3-qKp"; */
+"GwG-v3-qKp.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Available courses"; ObjectID = "HGi-BH-Oqx"; */
+"HGi-BH-Oqx.title" =
+"الدورات المتاحة";
+
+/* Class = "UILabel"; text = "passWord :-"; ObjectID = "ILu-S1-TCe"; */
+"ILu-S1-TCe.text" =
+"الرقم السري:-";
+
+/* Class = "UIButton"; normalTitle = "LogIn"; ObjectID = "IQv-Wj-qKZ"; */
+"IQv-Wj-qKZ.normalTitle" =
+"تسجيل الدخول";
+
+/* Class = "UILabel"; text = "answer A?"; ObjectID = "IYp-HO-JCi"; */
+"IYp-HO-JCi.text" = 
+"الإجابة أ؟";
+
+/* Class = "UIBarButtonItem"; title = "  "; ObjectID = "JZp-1P-gco"; */
+"JZp-1P-gco.title" = "  ";
+
+/* Class = "UILabel"; text = "Course contents:-"; ObjectID = "Jh3-f8-AzH"; */
+"Jh3-f8-AzH.text" =
+"محتويات الدورة:-";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "LON-Ua-ISI"; */
+"LON-Ua-ISI.placeholder" =
+"الرقم السري";
+
+/* Class = "UILabel"; text = "phone number : 5555555"; ObjectID = "LeZ-rn-bf9"; */
+"LeZ-rn-bf9.text" = "رقم الهاتف :- 999999999";
+
+/* Class = "UILabel"; text = "Practical simulation applications through modern test models."; ObjectID = "LgD-ik-t66"; */
+"LgD-ik-t66.text" =
+"تطبيقات المحاكاة العملية من خلال نماذج الإختبار الحديثة";
+
+/* Class = "UIButton"; normalTitle = "new user ?  Join now"; ObjectID = "MFU-jZ-Xc3"; */
+"MFU-jZ-Xc3.normalTitle" =
+"مستخدم جديد ؟ إنضم الآن";
+
+/* Class = "UILabel"; text = "correct answer:-"; ObjectID = "MVg-gE-2tt"; */
+"MVg-gE-2tt.text" =
+"الإجابة الصحيحة:-";
+
+/* Class = "UITextField"; placeholder = "Enter the lecture link"; ObjectID = "MZH-Xm-6aI"; */
+"MZH-Xm-6aI.placeholder" = "أدخل رابط الدورة";
+
+
+/* Class = "UILabel"; text = "answer C:-"; ObjectID = "NZc-a9-teB"; */
+"NZc-a9-teB.text" = "answer C:-";
+"الإجابة د:-";
+
+/* Class = "UIButton"; normalTitle = "Done !"; ObjectID = "Nox-w1-El0"; */
+"Nox-w1-El0.normalTitle" = "انقر هنا عند الإنتهاء من الدفع";
+
+
+/* Class = "UILabel"; text = "Comprehensive content from different references."; ObjectID = "PPF-ce-NHm"; */
+"PPF-ce-NHm.text" =
+"محتوى شامـل من مراجـع مختلفة";
+
+/* Class = "UIButton"; normalTitle = "update"; ObjectID = "Q6U-Dq-Szn"; */
+"Q6U-Dq-Szn.normalTitle" =
+"تحديث";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "QxK-qm-enr"; */
+"QxK-qm-enr.normalTitle" =
+"إضافة";
+
+/* Class = "UIButton"; normalTitle = "Gudrat Courses"; ObjectID = "Qy3-9a-Up0"; */
+"Qy3-9a-Up0.normalTitle" =
+"دورة القدرات";
+
+/* Class = "UIButton"; normalTitle = "Dismiss"; ObjectID = "Rc6-cO-2j7"; */
+"Rc6-cO-2j7.normalTitle" =
+"إنهاء";
+
+"dlw-YW-tPs.normalTitle" = "انقر هنا لمعرفة الإجابة الصحيحة مع طريقةالحل";
+
+/* Class = "UILabel"; text = "Crash Course \n\n3 month "; ObjectID = "Rgm-by-FK3"; */
+"Rgm-by-FK3.text" = "Crash Course \n\n3 month ";
+"";
+
+/* Class = "UITextField"; placeholder = "update course date"; ObjectID = "SlJ-Wh-6gx"; */
+"SlJ-Wh-6gx.placeholder" =
+"تحديث تاريخ الدورة";
+
+"Kje-mx-txD.placeholder" = "إختر مستوى الصعوبة";
+
+/* Class = "UITextField"; placeholder = "Select number of week"; ObjectID = "UCD-uD-imt"; */
+"UCD-uD-imt.placeholder" =
+"إختيار رقم الأسبوع";
+
+/* Class = "UILabel"; text = "quistion of challeng:-"; ObjectID = "UD6-Ao-Psf"; */
+"UD6-Ao-Psf.text" =
+"سؤال التحدي:-";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "VIV-N2-LhH"; */
+"VIV-N2-LhH.normalTitle" =
+"تسجيل الدخول";
+
+/* Class = "UITextField"; text = "Enter your name"; ObjectID = "VWS-DR-85I"; */
+"VWS-DR-85I.text" =
+"أدخل إسمك";
+/* Class = "UILabel"; text = "answer B?"; ObjectID = "VwV-Wt-LeD"; */
+"VwV-Wt-LeD.text" =
+"الإجابة ب ؟";
+
+/* Class = "UIButton"; normalTitle = "twitter"; ObjectID = "Y95-S6-7oR"; */
+"Y95-S6-7oR.normalTitle" =
+"تويتر";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "Yo4-if-rXs"; */
+"Yo4-if-rXs.normalTitle" =
+"إضافة";
+
+/* Class = "UILabel"; text = "Course price :-"; ObjectID = "ZWe-Fv-UUo"; */
+"ZWe-Fv-UUo.text" =
+"سعر الدورة:-";
+
+/* Class = "UILabel"; text = "Qudrat"; ObjectID = "Zep-tE-ARv"; */
+"Zep-tE-ARv.text" =
+"قدرات";
+
+/* Class = "UILabel"; text = "Error"; ObjectID = "ZxP-43-Nje"; */
+"ZxP-43-Nje.text" =
+"خطأ";
+
+/* Class = "UIBarButtonItem"; title = "  "; ObjectID = "alE-TY-MeJ"; */
+"alE-TY-MeJ.title" = "  ";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "awI-cg-YSW"; */
+"awI-cg-YSW.normalTitle" =
+"إنشاء حساب جديد";
+
+/* Class = "UILabel"; text = "answer C?"; ObjectID = "bEe-if-W97"; */
+"bEe-if-W97.text" =
+"الإجابة ج ؟";
+
+/* Class = "UIButton"; normalTitle = "Details !"; ObjectID = "c7a-JU-BdA"; */
+"c7a-JU-BdA.normalTitle" =
+"التفاصيل !";
+
+/* Class = "UILabel"; text = "correct answer?"; ObjectID = "dRu-ha-DaS"; */
+"dRu-ha-DaS.text" =
+"الإجابة الصحيحة؟";
+
+/* Class = "UILabel"; text = "Normal  Course\n\na month and a half ! "; ObjectID = "drO-ha-dqR"; */
+"drO-ha-dqR.text" = "Normal  Course\n\na month and a half ! ";
+
+/* Class = "UIButton"; normalTitle = "Save edits"; ObjectID = "eML-6D-cS7"; */
+"eML-6D-cS7.normalTitle" = "Save edits";
+"حفظ التعديلات";
+
+/* Class = "UILabel"; text = "answer B:-"; ObjectID = "ekE-65-eGL"; */
+"ekE-65-eGL.text" = "answer B:-";
+"";
+
+/* Class = "UITextField"; placeholder = "First Name "; ObjectID = "fQF-NE-dUT"; */
+"fQF-NE-dUT.placeholder" =
+"الإسم الأول";
+
+/* Class = "UIButton"; normalTitle = "Tahsely Courses"; ObjectID = "fUI-ch-e1G"; */
+"fUI-ch-e1G.normalTitle" =
+"دورة التحصيلي";
+
+/* Class = "UITextField"; placeholder = "Write title of challenge:-"; ObjectID = "fVx-5M-blw"; */
+"fVx-5M-blw.placeholder" =
+"أكتب عنوان التحدي:-";
+
+/* Class = "UIButton"; normalTitle = "Send !"; ObjectID = "fgO-pQ-Adi"; */
+"fgO-pQ-Adi.normalTitle" =
+"إرسال!";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fjX-hS-jzR"; */
+"fjX-hS-jzR.text" = "Label";
+
+
+/* Class = "UITextField"; placeholder = "subject of challeng "; ObjectID = "gI8-JS-63c"; */
+"gI8-JS-63c.placeholder" =
+"موضوع التحدي";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "gZc-Rs-91N"; */
+"gZc-Rs-91N.placeholder" =
+"الإيميل";
+/* Class = "UILabel"; text = "solution Method:-"; ObjectID = "hVh-pN-uLU"; */
+"hVh-pN-uLU.text" =
+"طريقة الحل:-";
+
+/* Class = "UILabel"; text = "Add date and time :-"; ObjectID = "hi7-cB-gfD"; */
+"hi7-cB-gfD.text" =
+"إضافة التاريخ والوقت:-";
+
+/* Class = "UILabel"; text = "Error"; ObjectID = "j6L-iY-wZJ"; */
+"j6L-iY-wZJ.text" =
+"خطأ";
+
+/* Class = "UILabel"; text = "Tahsely"; ObjectID = "jpU-aX-uza"; */
+"jpU-aX-uza.text" =
+"تحصيلي";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jwz-Nt-yDB"; */
+"jwz-Nt-yDB.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "l20-Td-bHN"; */
+"l20-Td-bHN.normalTitle" =
+"إنشاء حساب جديد";
+
+/* Class = "UILabel"; text = "Error"; ObjectID = "lca-jC-7oj"; */
+"lca-jC-7oj.text" =
+"خطأ";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "lkA-yB-ZF2"; */
+"lkA-yB-ZF2.normalTitle" =
+"إضافة";
+
+/* Class = "UITextField"; placeholder = "Select number of challenge"; ObjectID = "m8r-k0-OBI"; */
+"m8r-k0-OBI.placeholder" =
+"إختيار رقم التحدي";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "mHP-qm-Gxv"; */
+"mHP-qm-Gxv.normalTitle" = "Back !";
+
+
+/* Class = "UITabBarItem"; title = "Challenges"; ObjectID = "nQj-49-2nE"; */
+"nQj-49-2nE.title" =
+"التحديات";
+/* Class = "UIButton"; normalTitle = "Details !"; ObjectID = "pWe-8d-wd7"; */
+"pWe-8d-wd7.normalTitle" =
+"التفاصيل!";
+
+/* Class = "UILabel"; text = "Usere name :-"; ObjectID = "paG-U6-6gB"; */
+"paG-U6-6gB.text" =
+"إسم المستخدم:-";
+
+/* Class = "UINavigationItem"; title = "My courses"; ObjectID = "qWf-ce-JyX"; */
+"qWf-ce-JyX.title" =
+"دوراتي";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rAE-JC-hIe"; */
+"rAE-JC-hIe.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "rNY-lX-vYk"; */
+"rNY-lX-vYk.normalTitle" =
+"إضافة";
+
+/* Class = "UILabel"; text = "answer D?"; ObjectID = "rbF-qc-TWd"; */
+"rbF-qc-TWd.text" = "الإجابة د ؟";
+
+
+"lfw-rT-CMo.text" = "التحديات";
+
+"PhZ-p1-e4Y.text" = "المحاضرات";
+
+/* Class = "UILabel"; text = "Normal"; ObjectID = "rl4-hS-TbN"; */
+"rl4-hS-TbN.text" =
+"عادية";
+
+/* Class = "UILabel"; text = "Intensive training while you are at home"; ObjectID = "sO1-7L-x2a"; */
+"sO1-7L-x2a.text" =
+"تدريب مكثف وأنت في المـنزل";
+
+/* Class = "UITextField"; placeholder = "Enter your email "; ObjectID = "sbn-Xi-D68"; */
+"sbn-Xi-D68.placeholder" =
+"أدخل ايميلك";
+
+"2Rm-lY-zda.placeholder" = "أدخل ايميلك";
+/* Class = "UILabel"; text = "Email :-"; ObjectID = "tkU-ni-LOz"; */
+"tkU-ni-LOz.text" =
+"الإيميل:-";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tsL-G1-YOa"; */
+"tsL-G1-YOa.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Enter your password"; ObjectID = "v2e-a1-nCP"; */
+"v2e-a1-nCP.placeholder" =
+"أدخل الرقم السري";
+
+/* Class = "UILabel"; text = "Courses designed by professionals and specialists."; ObjectID = "v3A-3D-hwG"; */
+"v3A-3D-hwG.text" =
+"الدورات مصممة من قبل الخبراء والمتخصصين";
+
+/* Class = "UILabel"; text = "Crash"; ObjectID = "v6M-Ii-l9r"; */
+"v6M-Ii-l9r.text" =
+"مستعجلة";
+
+/* Class = "UILabel"; text = "Professionally prepared content"; ObjectID = "v6T-yj-ol6"; */
+"v6T-yj-ol6.text" = 
+"المحتوى معد مهنيـاً";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wiX-OE-HuJ"; */
+"wiX-OE-HuJ.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "xDf-dE-ABn"; */
+"xDf-dE-ABn.normalTitle" =
+"إضافة";
+
+/* Class = "UILabel"; text = "  Course Details:-"; ObjectID = "xrb-9n-ivH"; */
+"xrb-9n-ivH.text" =
+"تفاصيل الدورات:-";
+
+/* Class = "UITextField"; placeholder = "update Course Name"; ObjectID = "zEZ-cb-M4u"; */
+"zEZ-cb-M4u.placeholder" =
+"تحديث إسم الدورة";
+
+"FeG-yH-ojD.normalTitle" =
+"هل لديك حساب ؟";
+
+"t38-4D-R5U.normalTitle" =
+"هل نسيت كلمة المرور؟";
+
+"h13-hu-1Lv.placeholder" =
+"أدخل كلمة المرور الجديدة";
+
+"Mvx-Uy-Hel.normalTitle" = 
+"إرسال";
+"mHP-qm-Gxv.normalTitle" = "رجوع !";
+"27j-ao-Kse.normalTitle" = "قائمة التحديات";

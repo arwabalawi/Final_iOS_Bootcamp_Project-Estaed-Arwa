@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="18122" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="18093"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="MyLectureCell" rowHeight="146" id="KGk-i7-Jjw" customClass="MyLectureCell" customModule="Estaed" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="403" height="119"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="403" height="119"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="aB5-Lw-kul">
+                        <rect key="frame" x="21" y="6" width="361" height="107"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="n4T-5I-g6y">
+                                <rect key="frame" x="52" y="6" width="257" height="60"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Name of lecture" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eqR-2u-ars">
+                                        <rect key="frame" x="0.0" y="0.0" width="257" height="16.5"/>
+                                        <color key="backgroundColor" systemColor="systemGroupedBackgroundColor"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="17"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Date" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bmA-ca-Nkk">
+                                        <rect key="frame" x="0.0" y="21.5" width="257" height="17"/>
+                                        <color key="backgroundColor" systemColor="systemGroupedBackgroundColor"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="17"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Time" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0nS-ga-DbQ">
+                                        <rect key="frame" x="0.0" y="43.5" width="257" height="16.5"/>
+                                        <color key="backgroundColor" systemColor="systemGroupedBackgroundColor"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="17"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="257" id="2PW-Pp-I8f"/>
+                                    <constraint firstAttribute="height" constant="60" id="TkK-3X-hu2"/>
+                                </constraints>
+                            </stackView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xQt-ak-FA8">
+                                <rect key="frame" x="118" y="74" width="125" height="28"/>
+                                <color key="backgroundColor" red="0.21450353010000001" green="0.19138579219999999" blue="0.2208334337" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="125" id="aHP-0b-PtS"/>
+                                    <constraint firstAttribute="height" constant="28" id="bIQ-QG-M49"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="15"/>
+                                <state key="normal" title="Join">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <connections>
+                                    <action selector="joinBtnTapped:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="EzE-nw-uR5"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <constraints>
+                            <constraint firstItem="xQt-ak-FA8" firstAttribute="centerX" secondItem="aB5-Lw-kul" secondAttribute="centerX" id="OGu-K9-Ap8"/>
+                            <constraint firstItem="xQt-ak-FA8" firstAttribute="top" secondItem="n4T-5I-g6y" secondAttribute="bottom" constant="8" symbolic="YES" id="TmF-mc-gD7"/>
+                            <constraint firstItem="xQt-ak-FA8" firstAttribute="centerX" secondItem="n4T-5I-g6y" secondAttribute="centerX" id="lRF-Ii-uXv"/>
+                            <constraint firstAttribute="height" constant="107" id="m7e-BQ-sQQ"/>
+                            <constraint firstAttribute="bottom" secondItem="xQt-ak-FA8" secondAttribute="bottom" constant="5" id="nPq-wj-uG1"/>
+                            <constraint firstAttribute="width" constant="361" id="y6X-bP-oWy"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="aB5-Lw-kul" secondAttribute="trailing" constant="21" id="9Q5-rd-qFZ"/>
+                    <constraint firstItem="aB5-Lw-kul" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="6" id="Ui4-0O-K7u"/>
+                    <constraint firstAttribute="bottom" secondItem="aB5-Lw-kul" secondAttribute="bottom" constant="6" id="oKn-ar-jCE"/>
+                    <constraint firstItem="aB5-Lw-kul" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="21" id="rlB-vO-J2f"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="joinBtn" destination="xQt-ak-FA8" id="XAT-n9-AeD"/>
+                <outlet property="lectureDate" destination="bmA-ca-Nkk" id="s8Z-Zk-1Er"/>
+                <outlet property="lectureName" destination="eqR-2u-ars" id="HVE-XW-7AC"/>
+                <outlet property="lectureTime" destination="0nS-ga-DbQ" id="S1D-h2-zoS"/>
+            </connections>
+            <point key="canvasLocation" x="173.18840579710147" y="73.325892857142847"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <systemColor name="systemGroupedBackgroundColor">
+            <color red="0.94901960784313721" green="0.94901960784313721" blue="0.96862745098039216" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+    </resources>
+</document>

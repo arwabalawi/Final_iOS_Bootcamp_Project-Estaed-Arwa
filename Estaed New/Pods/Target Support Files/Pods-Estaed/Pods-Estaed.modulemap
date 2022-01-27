@@ -1,6 +1,0 @@
-framework module Pods_Estaed {
-  umbrella header "Pods-Estaed-umbrella.h"
-
-  export *
-  module * { export * }
-}

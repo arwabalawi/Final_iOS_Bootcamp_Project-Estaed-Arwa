@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="18122" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="18093"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="myCell" rowHeight="112" id="KGk-i7-Jjw" customClass="MyCallengesAttachmentCell" customModule="Estaed" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="517" height="112"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="517" height="112"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="MzK-Jf-BCS">
+                        <rect key="frame" x="11" y="9" width="495" height="82"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="GMk-yJ-BxO">
+                                <rect key="frame" x="0.0" y="46" width="495" height="30"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="First week" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="QsG-VE-MbG">
+                                        <rect key="frame" x="0.0" y="0.0" width="161.5" height="30"/>
+                                        <color key="backgroundColor" systemColor="tertiarySystemGroupedBackgroundColor"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="17"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="quantitative" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oi9-2R-3Pp">
+                                        <rect key="frame" x="166.5" y="0.0" width="162" height="30"/>
+                                        <color key="backgroundColor" systemColor="tertiarySystemGroupedBackgroundColor"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="17"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Easy" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Tlh-C8-SC5">
+                                        <rect key="frame" x="333.5" y="0.0" width="161.5" height="30"/>
+                                        <color key="backgroundColor" systemColor="systemGray3Color"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="17"/>
+                                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="495" id="CDA-r9-Plz"/>
+                                    <constraint firstAttribute="height" constant="30" id="hJt-5d-gsw"/>
+                                </constraints>
+                            </stackView>
+                            <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="nzR-oG-XXf">
+                                <rect key="frame" x="7" y="8" width="479.5" height="30"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="1 )" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="QCC-hS-DH4">
+                                        <rect key="frame" x="0.0" y="0.0" width="18" height="30"/>
+                                        <color key="backgroundColor" systemColor="systemGroupedBackgroundColor"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <button opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="249" contentHorizontalAlignment="left" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hIj-x2-vJA">
+                                        <rect key="frame" x="18" y="0.0" width="435" height="30"/>
+                                        <color key="backgroundColor" systemColor="systemGroupedBackgroundColor"/>
+                                        <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                                        <state key="normal" title="Calculating the arithmetic mean of the percentage">
+                                            <color key="titleColor" red="0.35442313759999999" green="0.31665310050000001" blue="0.099912020409999996" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="didbtnTapped:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="eLt-Xo-D9R"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" tag="10" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ooN-XP-zzI" userLabel="heart">
+                                        <rect key="frame" x="453" y="0.0" width="26.5" height="30"/>
+                                        <color key="tintColor" systemColor="systemRedColor"/>
+                                        <state key="normal" image="heart" catalog="system">
+                                            <preferredSymbolConfiguration key="preferredSymbolConfiguration" configurationType="pointSize" pointSize="22"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="btnHeartTapped:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="a0i-7G-a58"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="30" id="Cu6-of-thd"/>
+                                    <constraint firstAttribute="width" constant="479.5" id="TOw-rN-9X9"/>
+                                </constraints>
+                            </stackView>
+                        </subviews>
+                        <constraints>
+                            <constraint firstItem="nzR-oG-XXf" firstAttribute="leading" secondItem="MzK-Jf-BCS" secondAttribute="leading" constant="7" id="5rO-xb-utW"/>
+                            <constraint firstAttribute="trailing" secondItem="nzR-oG-XXf" secondAttribute="trailing" constant="8.5" id="6AI-MA-OEf"/>
+                            <constraint firstAttribute="bottom" secondItem="GMk-yJ-BxO" secondAttribute="bottom" constant="6" id="6Ew-hI-fd5"/>
+                            <constraint firstAttribute="trailing" secondItem="GMk-yJ-BxO" secondAttribute="trailing" id="FaL-tH-io8"/>
+                            <constraint firstAttribute="height" constant="82" id="JG5-vI-V42"/>
+                            <constraint firstItem="nzR-oG-XXf" firstAttribute="top" secondItem="MzK-Jf-BCS" secondAttribute="top" constant="8" id="Qey-A8-Eny"/>
+                            <constraint firstAttribute="width" constant="495" id="SrO-fu-NeT"/>
+                            <constraint firstItem="GMk-yJ-BxO" firstAttribute="leading" secondItem="MzK-Jf-BCS" secondAttribute="leading" id="gDJ-7j-sVI"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="MzK-Jf-BCS" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="9" id="Fdw-M5-KQV"/>
+                    <constraint firstItem="MzK-Jf-BCS" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="11" id="J48-fM-j4g"/>
+                    <constraint firstAttribute="bottom" secondItem="MzK-Jf-BCS" secondAttribute="bottom" constant="21" id="TPZ-E8-it8"/>
+                    <constraint firstAttribute="trailing" secondItem="MzK-Jf-BCS" secondAttribute="trailing" constant="11" id="s2G-kk-oVQ"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="btnDetails" destination="hIj-x2-vJA" id="WqB-eN-fQp"/>
+                <outlet property="btnHeart" destination="ooN-XP-zzI" id="4vh-01-2Sn"/>
+                <outlet property="difficultyOfCh" destination="Tlh-C8-SC5" id="fSM-vo-Nwp"/>
+                <outlet property="numOfWeekLabel" destination="QsG-VE-MbG" id="Dpe-Jk-TBT"/>
+                <outlet property="numberOfCh" destination="QCC-hS-DH4" id="9ai-v4-Mfv"/>
+                <outlet property="subjectOfCh" destination="oi9-2R-3Pp" id="ypI-UZ-WBQ"/>
+                <outlet property="titleOfCh" destination="hIj-x2-vJA" id="voS-UB-41C"/>
+            </connections>
+            <point key="canvasLocation" x="252.89855072463769" y="43.526785714285715"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="heart" catalog="system" width="128" height="109"/>
+        <systemColor name="systemGray3Color">
+            <color red="0.7803921568627451" green="0.7803921568627451" blue="0.80000000000000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+        <systemColor name="systemGroupedBackgroundColor">
+            <color red="0.94901960784313721" green="0.94901960784313721" blue="0.96862745098039216" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+        <systemColor name="systemRedColor">
+            <color red="1" green="0.23137254901960785" blue="0.18823529411764706" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+        <systemColor name="tertiarySystemGroupedBackgroundColor">
+            <color red="0.94901960784313721" green="0.94901960784313721" blue="0.96862745098039216" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+    </resources>
+</document>

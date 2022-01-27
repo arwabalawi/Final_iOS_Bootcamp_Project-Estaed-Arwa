@@ -1,0 +1,335 @@
+
+"oYG-pu-Jug.text" = "Welcome";
+"27j-ao-Kse.normalTitle" = "List of challenges";
+"1K4-ob-p3R.normalTitle" = "List of lectures";
+"VD3-vA-7db.normalTitle" = "Update details";
+"oOX-Zl-6oW.normalTitle" = "about us ?";
+/* Class = "UITextField"; placeholder = "Add course contents"; ObjectID = "1fu-SX-csv"; */
+"1fu-SX-csv.placeholder" = "Add course contents";
+
+"PhZ-p1-e4Y.text" = "lectures";
+
+"Xgr-Yd-OWf.normalTitle" = "Dismiss";
+"2JX-Mz-IgF.text" = "رقم السداد";
+"Oa8-YN-gXg.text" = "Whoever has not tasted the bitterness of learning one hour
+
+will taste the humiliation of ignorance for the rest of his life .. ";
+
+/* Class = "UILabel"; text = "solution Method?"; ObjectID = "1nz-hK-4he"; */
+"1nz-hK-4he.text" = "solution Method?";
+
+/* Class = "UILabel"; text = "Payment number"; ObjectID = "2JX-Mz-IgF"; */
+"2JX-Mz-IgF.text" = "Payment number";
+
+/* Class = "UINavigationItem"; title = "Profile personly"; ObjectID = "2g8-Wl-OTg"; */
+"2g8-Wl-OTg.title" = "Profile personly";
+
+/* Class = "UITabBarItem"; title = "My courses"; ObjectID = "2hA-to-OVq"; */
+"2hA-to-OVq.title" = "My courses";
+
+/* Class = "UILabel"; text = "Make your educational journey deep and intense with professional \"Estade\" content"; ObjectID = "3sb-vt-fGl"; */
+"3sb-vt-fGl.text" = "Make your educational journey deep and intense with professional \"Estade\" content";
+
+/* Class = "UIButton"; normalTitle = "update"; ObjectID = "4Mi-l1-sWQ"; */
+"4Mi-l1-sWQ.normalTitle" = "update";
+
+/* Class = "UITextField"; placeholder = "Enter the name of lecture"; ObjectID = "5h1-Lg-qgu"; */
+"5h1-Lg-qgu.placeholder" = "Enter the name of lecture";
+
+/* Class = "UITextField"; placeholder = "update Course Kind"; ObjectID = "5rq-YQ-YUn"; */
+"5rq-YQ-YUn.placeholder" = "update Course Kind";
+
+/* Class = "UIButton"; normalTitle = "Dismiss"; ObjectID = "6Yo-XL-7B6"; */
+"6Yo-XL-7B6.normalTitle" = "Dismiss";
+
+"cnJ-tN-Ada.normalTitle" = "Dismiss";
+
+/* Class = "UILabel"; text = "ClicK to See solution Method "; ObjectID = "6oE-hE-njT"; */
+"6oE-hE-njT.text" = "ClicK to See solution Method ";
+
+/* Class = "UIButton"; normalTitle = "To pay, Click here !"; ObjectID = "6tA-SN-Q6m"; */
+"6tA-SN-Q6m.normalTitle" = "To pay, Click here !";
+
+/* Class = "UILabel"; text = "Exam simulation models"; ObjectID = "7Sx-5V-WJM"; */
+"7Sx-5V-WJM.text" = "Exam simulation models";
+
+"2Rm-lY-zda.placeholder" = "Enter your Email";
+
+/* Class = "UIButton"; normalTitle = "Dismiss"; ObjectID = "7cM-lH-zdW"; */
+"7cM-lH-zdW.normalTitle" = "Dismiss";
+
+/* Class = "UITextField"; placeholder = "difficulty level "; ObjectID = "8jW-hx-DCa"; */
+"8jW-hx-DCa.placeholder" = "difficulty level ";
+
+/* Class = "UITextField"; placeholder = "Add course price "; ObjectID = "A2L-pF-gsk"; */
+"A2L-pF-gsk.placeholder" = "Add course price ";
+
+/* Class = "UILabel"; text = "quistion of challeng ?"; ObjectID = "A5j-I3-xGS"; */
+"A5j-I3-xGS.text" = "quistion of challeng ?";
+
+/* Class = "UILabel"; text = "34806427953278"; ObjectID = "CQr-SR-L6n"; */
+"CQr-SR-L6n.text" = "34806427953278";
+
+/* Class = "UINavigationItem"; title = "Available courses"; ObjectID = "CW3-9L-JBh"; */
+"CW3-9L-JBh.title" = "Available courses";
+
+/* Class = "UILabel"; text = "Course time :-"; ObjectID = "Cp4-nH-dVh"; */
+"Cp4-nH-dVh.text" = "Course time :-";
+
+/* Class = "UIButton"; normalTitle = "Dismiss"; ObjectID = "CpD-bu-xou"; */
+"CpD-bu-xou.normalTitle" = "Dismiss";
+
+/* Class = "UITextField"; placeholder = "Add course date"; ObjectID = "E96-mQ-wdr"; */
+"E96-mQ-wdr.placeholder" = "Add course date";
+
+/* Class = "UITextField"; placeholder = "Add course contents"; ObjectID = "EdT-zI-G0U"; */
+"EdT-zI-G0U.placeholder" = "Add course contents";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "F4F-LQ-Aw6"; */
+"F4F-LQ-Aw6.placeholder" = "Last Name";
+
+/* Class = "UITabBarItem"; title = "favorite challenges"; ObjectID = "FLj-fr-Gpc"; */
+"FLj-fr-Gpc.title" = "favorite challenges";
+
+/* Class = "UIButton"; normalTitle = "you have account ?"; ObjectID = "FeG-yH-ojD"; */
+"FeG-yH-ojD.normalTitle" = "you have account ?";
+
+/* Class = "UILabel"; text = "Connect with us"; ObjectID = "Fff-3R-IgI"; */
+"Fff-3R-IgI.text" = "Connect with us";
+
+/* Class = "UIButton"; normalTitle = "Done !"; ObjectID = "Gbk-rv-dEw"; */
+"Gbk-rv-dEw.normalTitle" = "Done !";
+
+/* Class = "UITextField"; placeholder = "update course price "; ObjectID = "GgR-gL-LCX"; */
+"GgR-gL-LCX.placeholder" = "update course price ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GwG-v3-qKp"; */
+"GwG-v3-qKp.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Available courses"; ObjectID = "HGi-BH-Oqx"; */
+"HGi-BH-Oqx.title" = "Available courses";
+
+/* Class = "UILabel"; text = "passWord :-"; ObjectID = "ILu-S1-TCe"; */
+"ILu-S1-TCe.text" = "passWord :-";
+
+/* Class = "UIButton"; normalTitle = "LogIn"; ObjectID = "IQv-Wj-qKZ"; */
+"IQv-Wj-qKZ.normalTitle" = "LogIn";
+
+/* Class = "UILabel"; text = "answer A?"; ObjectID = "IYp-HO-JCi"; */
+"IYp-HO-JCi.text" = "answer A?";
+
+/* Class = "UIBarButtonItem"; title = "  "; ObjectID = "JZp-1P-gco"; */
+"JZp-1P-gco.title" = "  ";
+
+/* Class = "UILabel"; text = "Course contents:-"; ObjectID = "Jh3-f8-AzH"; */
+"Jh3-f8-AzH.text" = "Course contents:-";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "LON-Ua-ISI"; */
+"LON-Ua-ISI.placeholder" = "password";
+
+/* Class = "UILabel"; text = "phone number : 5555555"; ObjectID = "LeZ-rn-bf9"; */
+"LeZ-rn-bf9.text" = "phone number :- 9999999999";
+
+/* Class = "UILabel"; text = "Practical simulation applications through modern test models."; ObjectID = "LgD-ik-t66"; */
+"LgD-ik-t66.text" = "Practical simulation applications through modern test models.";
+
+/* Class = "UIButton"; normalTitle = "new user ?  Join now"; ObjectID = "MFU-jZ-Xc3"; */
+"MFU-jZ-Xc3.normalTitle" = "new user ?  Join now";
+
+/* Class = "UILabel"; text = "correct answer:-"; ObjectID = "MVg-gE-2tt"; */
+"MVg-gE-2tt.text" = "correct answer:-";
+
+/* Class = "UITextField"; placeholder = "Enter the lecture link"; ObjectID = "MZH-Xm-6aI"; */
+"MZH-Xm-6aI.placeholder" = "Enter the lecture link";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "Mvx-Uy-Hel"; */
+"Mvx-Uy-Hel.normalTitle" = "Send";
+
+/* Class = "UIButton"; normalTitle = "Done !"; ObjectID = "Nox-w1-El0"; */
+"Nox-w1-El0.normalTitle" = "Done !";
+
+/* Class = "UILabel"; text = "Comprehensive content from different references."; ObjectID = "PPF-ce-NHm"; */
+"PPF-ce-NHm.text" = "Comprehensive content from different references.";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "QxK-qm-enr"; */
+"QxK-qm-enr.normalTitle" = "Add";
+
+/* Class = "UIButton"; normalTitle = "Gudrat Courses"; ObjectID = "Qy3-9a-Up0"; */
+"Qy3-9a-Up0.normalTitle" = "Gudrat Courses";
+
+/* Class = "UIButton"; normalTitle = "Dismiss"; ObjectID = "Rc6-cO-2j7"; */
+"Rc6-cO-2j7.normalTitle" = "Dismiss";
+
+/* Class = "UILabel"; text = "Crash Course \n\n3 month "; ObjectID = "Rgm-by-FK3"; */
+"Rgm-by-FK3.text" = "Crash Course \n\n3 month ";
+
+/* Class = "UITextField"; placeholder = "update course date"; ObjectID = "SlJ-Wh-6gx"; */
+"SlJ-Wh-6gx.placeholder" = "update course date";
+
+/* Class = "UITextField"; placeholder = "Select number of week"; ObjectID = "UCD-uD-imt"; */
+"UCD-uD-imt.placeholder" = "Select number of week";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "VIV-N2-LhH"; */
+"VIV-N2-LhH.normalTitle" = "Login";
+
+/* Class = "UITextField"; text = "Enter your name"; ObjectID = "VWS-DR-85I"; */
+"VWS-DR-85I.text" = "Enter your name";
+
+/* Class = "UILabel"; text = "answer B?"; ObjectID = "VwV-Wt-LeD"; */
+"VwV-Wt-LeD.text" = "answer B?";
+
+/* Class = "UIButton"; normalTitle = "twitter"; ObjectID = "Y95-S6-7oR"; */
+"Y95-S6-7oR.normalTitle" = "twitter";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "Yo4-if-rXs"; */
+"Yo4-if-rXs.normalTitle" = "Add";
+
+/* Class = "UILabel"; text = "Course price :-"; ObjectID = "ZWe-Fv-UUo"; */
+"ZWe-Fv-UUo.text" = "Course price :-";
+
+/* Class = "UILabel"; text = "Qudrat"; ObjectID = "Zep-tE-ARv"; */
+"Zep-tE-ARv.text" = "Qudrat";
+
+/* Class = "UILabel"; text = "Error"; ObjectID = "ZxP-43-Nje"; */
+"ZxP-43-Nje.text" = "Error";
+
+/* Class = "UIBarButtonItem"; title = "  "; ObjectID = "alE-TY-MeJ"; */
+"alE-TY-MeJ.title" = "  ";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "awI-cg-YSW"; */
+"awI-cg-YSW.normalTitle" = "Sign Up";
+
+/* Class = "UILabel"; text = "answer C?"; ObjectID = "bEe-if-W97"; */
+"bEe-if-W97.text" = "answer C?";
+
+/* Class = "UIButton"; normalTitle = "Details !"; ObjectID = "c7a-JU-BdA"; */
+"c7a-JU-BdA.normalTitle" = "Details !";
+
+/* Class = "UILabel"; text = "correct answer?"; ObjectID = "dRu-ha-DaS"; */
+"dRu-ha-DaS.text" = "correct answer?";
+
+/* Class = "UILabel"; text = "Normal  Course\n\na month and a half ! "; ObjectID = "drO-ha-dqR"; */
+"drO-ha-dqR.text" = "Normal  Course\n\na month and a half ! ";
+
+/* Class = "UIButton"; normalTitle = "Save edits"; ObjectID = "eML-6D-cS7"; */
+"eML-6D-cS7.normalTitle" = "Save edits";
+
+/* Class = "UITextField"; placeholder = "First Name "; ObjectID = "fQF-NE-dUT"; */
+"fQF-NE-dUT.placeholder" = "First Name ";
+
+/* Class = "UIButton"; normalTitle = "Tahsely Courses"; ObjectID = "fUI-ch-e1G"; */
+"fUI-ch-e1G.normalTitle" = "Tahsely Courses";
+
+/* Class = "UITextField"; placeholder = "Write title of challenge:-"; ObjectID = "fVx-5M-blw"; */
+"fVx-5M-blw.placeholder" = "Write title of challenge:-";
+
+/* Class = "UIButton"; normalTitle = "Chek !"; ObjectID = "fgO-pQ-Adi"; */
+"fgO-pQ-Adi.normalTitle" = "Chek !";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fjX-hS-jzR"; */
+"fjX-hS-jzR.text" = "Label";
+
+
+/* Class = "UITextField"; placeholder = "subject of challeng "; ObjectID = "gI8-JS-63c"; */
+"gI8-JS-63c.placeholder" = "subject of challeng ";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "gZc-Rs-91N"; */
+"gZc-Rs-91N.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "Enter your new password"; ObjectID = "h13-hu-1Lv"; */
+"h13-hu-1Lv.placeholder" = "Enter your new password";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "hZR-5G-7v1"; */
+"hZR-5G-7v1.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Add date and time :-"; ObjectID = "hi7-cB-gfD"; */
+"hi7-cB-gfD.text" = "Add date and time :-";
+
+/* Class = "UILabel"; text = "Error"; ObjectID = "j6L-iY-wZJ"; */
+"j6L-iY-wZJ.text" = "Error";
+
+/* Class = "UILabel"; text = "Tahsely"; ObjectID = "jpU-aX-uza"; */
+"jpU-aX-uza.text" = "Tahsely";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jwz-Nt-yDB"; */
+"jwz-Nt-yDB.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "l20-Td-bHN"; */
+"l20-Td-bHN.normalTitle" = "Sign Up";
+
+/* Class = "UILabel"; text = "Error"; ObjectID = "lca-jC-7oj"; */
+"lca-jC-7oj.text" = "Error";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "lkA-yB-ZF2"; */
+"lkA-yB-ZF2.normalTitle" = "Add";
+
+/* Class = "UITextField"; placeholder = "Select number of challenge"; ObjectID = "m8r-k0-OBI"; */
+"m8r-k0-OBI.placeholder" = "Select number of challenge";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "mHP-qm-Gxv"; */
+"mHP-qm-Gxv.normalTitle" = "Back !";
+
+
+
+/* Class = "UIButton"; normalTitle = "Details !"; ObjectID = "pWe-8d-wd7"; */
+"pWe-8d-wd7.normalTitle" = "Details !";
+
+/* Class = "UILabel"; text = "Usere name :-"; ObjectID = "paG-U6-6gB"; */
+"paG-U6-6gB.text" = "Usere name :-";
+
+/* Class = "UINavigationItem"; title = "My courses"; ObjectID = "qWf-ce-JyX"; */
+"qWf-ce-JyX.title" = "My courses";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rAE-JC-hIe"; */
+"rAE-JC-hIe.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "rNY-lX-vYk"; */
+"rNY-lX-vYk.normalTitle" = "Add";
+
+/* Class = "UILabel"; text = "answer D?"; ObjectID = "rbF-qc-TWd"; */
+"rbF-qc-TWd.text" = "answer D?";
+
+/* Class = "UILabel"; text = "Normal"; ObjectID = "rl4-hS-TbN"; */
+"rl4-hS-TbN.text" = "Normal";
+"lfw-rT-CMo.text" = "Challenges";
+
+/* Class = "UILabel"; text = "Intensive training while you are at home"; ObjectID = "sO1-7L-x2a"; */
+"sO1-7L-x2a.text" = "Intensive training while you are at home";
+
+/* Class = "UITextField"; placeholder = "Enter your email "; ObjectID = "sbn-Xi-D68"; */
+"sbn-Xi-D68.placeholder" = "Enter your email ";
+
+/* Class = "UIButton"; normalTitle = "Forgate passwourd?"; ObjectID = "t38-4D-R5U"; */
+"t38-4D-R5U.normalTitle" = "Forgate password?";
+
+/* Class = "UILabel"; text = "Email :-"; ObjectID = "tkU-ni-LOz"; */
+"tkU-ni-LOz.text" = "Email :-";
+
+/* Class = "UILabel"; text = "Whate is the number ?"; ObjectID = "tsL-G1-YOa"; */
+"tsL-G1-YOa.text" = "Whate is the number ?";
+
+/* Class = "UITextField"; placeholder = "Enter your password"; ObjectID = "v2e-a1-nCP"; */
+"v2e-a1-nCP.placeholder" = "Enter your password";
+
+/* Class = "UILabel"; text = "Courses designed by professionals and specialists."; ObjectID = "v3A-3D-hwG"; */
+"v3A-3D-hwG.text" = "Courses designed by professionals and specialists.";
+
+/* Class = "UILabel"; text = "Crash"; ObjectID = "v6M-Ii-l9r"; */
+"v6M-Ii-l9r.text" = "Crash";
+
+/* Class = "UILabel"; text = "Professionally prepared content"; ObjectID = "v6T-yj-ol6"; */
+"v6T-yj-ol6.text" = "Professionally prepared content";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wiX-OE-HuJ"; */
+"wiX-OE-HuJ.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "xDf-dE-ABn"; */
+"xDf-dE-ABn.normalTitle" = "Add";
+
+/* Class = "UILabel"; text = "Course Details :"; ObjectID = "xrb-9n-ivH"; */
+"xrb-9n-ivH.text" = "Course Details :";
+
+/* Class = "UITextField"; placeholder = "update Course Name"; ObjectID = "zEZ-cb-M4u"; */
+"zEZ-cb-M4u.placeholder" = "update Course Name";
+
+"27j-ao-Kse.normalTitle" = "List of challenges";

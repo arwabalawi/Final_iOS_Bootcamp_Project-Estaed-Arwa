@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "K6a-bc-kC0"; */
+"K6a-bc-kC0.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "U3f-5a-BlY"; */
+"U3f-5a-BlY.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Details"; ObjectID = "dvq-1i-56P"; */
+"dvq-1i-56P.normalTitle" = "التفاصيل";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "huN-VG-wQq"; */
+"huN-VG-wQq.text" = "Label";
+
+/* Class = "UILabel"; text = "Course Prise:-"; ObjectID = "je7-cD-Lur"; */
+"je7-cD-Lur.text" = "سعر الدورة";
+
+/* Class = "UILabel"; text = "Course Kind:-"; ObjectID = "khe-7F-5IV"; */
+"khe-7F-5IV.text" = "نوع الدورة";
+
+/* Class = "UILabel"; text = "Course name:-"; ObjectID = "q0g-ke-uYZ"; */
+"q0g-ke-uYZ.text" = "إسم الدورة";
